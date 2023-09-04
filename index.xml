@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Not in My Student Union!</title>
+    <link>https://nimsu.org/</link>
+    <description>Recent content on Not in My Student Union!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Sep 2023 05:07:51 +1000</lastBuildDate><atom:link href="https://nimsu.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://nimsu.org/posts/hello/</link>
+      <pubDate>Tue, 05 Sep 2023 05:07:51 +1000</pubDate>
+      
+      <guid>https://nimsu.org/posts/hello/</guid>
+      <description>In which we introduce ourselves.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://nimsu.org/posts/dsa_test/</link>
+      <pubDate>Tue, 05 Sep 2023 05:07:51 +1000</pubDate>
+      
+      <guid>https://nimsu.org/posts/dsa_test/</guid>
+      <description>In which we testflight NIMSU.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://nimsu.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nimsu.org/about/</guid>
+      <description>Not in My Student Union (NIMSU) is an anonymously ran team of student journalists who cover student union and association issues across University campuses in Melbourne.
+We&amp;rsquo;re volunteers, and put the public student interest at the centre of our articles.
+Transparency Our constitution and current policies are publicly available to read, however current ongoing investigations aren&amp;rsquo;t available until they are finished.
+We do not keep records of whistleblower or journalist identities, and The NIMSU Team will not respond to requests of these kind under any circumstances.</description>
+    </item>
+    
+  </channel>
+</rss>
