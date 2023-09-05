@@ -7,7 +7,7 @@ If you have a tip-off or are sharing confidential information with us and wish t
 As with any communication, nothing is 100% secure. While NIMSU takes privacy seriously, we can't guarantee that your ISP, device or our equipment won't be compromised. 
 
 ## Signal Messenger 
-Signal Messenger is an end-to-end encrypted messaging/call service powered the Signal Protocol. You can [install Signal](https://signal.org/install) on iOS and Android. 
+Signal Messenger is an end-to-end encrypted messaging/call service powered by the Signal Protocol. You can [install Signal](https://signal.org/install) on iOS and Android. 
 
 **Signal Number:** `not yet available, check back later!`
 
