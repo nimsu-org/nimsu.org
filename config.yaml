@@ -13,10 +13,10 @@ menu:
       name: About
       url: /about/
       weight: 2
-#    - identifier: posts
-#      name: Posts
-#      url: /posts/
-#      weight: 3
+    - identifier: contact
+      name: Contact Us
+      url: /contact/
+      weight: 3
     - identifier: categories
       name: Categories
       url: /categories/
