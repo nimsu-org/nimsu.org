@@ -10,4 +10,4 @@ We're volunteers, and put the public student interest at the centre of our artic
 # Transparency
 Our constitution and current policies are publicly available to read, however current ongoing investigations aren't available until they are finished. 
 
-We do not keep records of whistleblower or journalist identities, and The NIMSU Team will not respond to requests of these kind under any circumstances.
+We do not keep records of whistleblower or journalist identities, and The NIMSU Team will not respond to requests of this kind under any circumstances.
