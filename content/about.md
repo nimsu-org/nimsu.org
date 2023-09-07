@@ -1,14 +1,17 @@
 ---
-title: About
+title: By whistleblowers, for whistleblowers.
 layout: default
 ---
 
-Not in My Student Union (NIMSU) is an anonymously ran team of student journalists who cover student union and association issues across University campuses in Melbourne. The name "NIMSU" is a satirical take on [Not In My Backyard (NIMBY)](https://en.wikipedia.org/wiki/NIMBY).
+Not in My Student Union (NIMSU) is an anonymously ran team of student journalists who cover student union and association issues across University campuses in Melbourne. The name "NIMSU" is a satirical take on [Not In My Backyard (NIMBY)](https://en.wikipedia.org/wiki/NIMBY). The NIMSU Team is spread across Deakin University's Burwood campus and La Trobe University's Bundoora campus.
 
 We're volunteers, and put the public student interest at the centre of our articles. 
 
 # Transparency
-Our constitution and current policies are publicly available to read (will be uploaded soon), however current ongoing investigations aren't typically available until they are finished. 
+Our current policies are publicly available to read (will be uploaded soon), however current ongoing investigations aren't typically available until they are finished. 
+
+- [Blowing the Whistle: The NIMSU Process](/whistleblowing-policy/)
+- [Commitment to Fair Reporting](/impartiality/)
 
 We do not keep records of whistleblower or journalist identities, and The NIMSU Team will not respond to requests of this kind under any circumstances.
 
