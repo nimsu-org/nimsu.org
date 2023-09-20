@@ -41,8 +41,8 @@ params:
   social:
     - name: Instagram
       url: https://instagram.com/nimsu_org/
-#    - name: GitLab
-#      url: https://gitlab.com/ian-s-mcb
+    - name: Bluesky
+      url: https://bsky.app/profile/nimsu.org
 #    - name: Quizlet
 #      url: https://quizlet.com/ian-s-mcb
 #    - name: Reddit

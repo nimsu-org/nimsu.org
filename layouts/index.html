@@ -1,5 +1,12 @@
 {{ define "main" }}
 	<main>
+		<img src="/img/banner.png" alt="People are talking. You can too."><br>
+		<div style="display: flex; flex-direction: row; justify-content: space-between;">
+			<a href="/ltsu/"><img src="/img/the_eagle_files_button.png" width="240" alt="People are talking. You can too."></a>
+			<p></p>
+			<p></p>
+		</div>
+		<hr>
 		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
 		{{ range $paginator.Pages }}
 			{{ .Render "summary" }}
