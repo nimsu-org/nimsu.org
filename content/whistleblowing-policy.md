@@ -1,5 +1,5 @@
 ---
-title: "Blowing the Whistle: The NIMSU Process"
+title: "The NIMSU Process"
 layout: default
 ---
 If you have any information and/or evidence that can help with our investigation, and wish to detail your experience on-the-record we can arrange one or more of the following things:

@@ -17,10 +17,10 @@ menu:
       name: Contact Us
       url: /contact/
       weight: 3
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 4
+#    - identifier: categories
+#      name: Categories
+#      url: /categories/
+#      weight: 4
 #    - identifier: tags
 #      name: Tags
 #      url: /tags/

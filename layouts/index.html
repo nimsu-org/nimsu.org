@@ -1,10 +1,16 @@
 {{ define "main" }}
 	<main>
-		<img src="/img/banner.png" alt="People are talking. You can too."><br>
-		<div style="display: flex; flex-direction: row; justify-content: space-between;">
-			<a href="/ltsu/"><img src="/img/the_eagle_files_button.png" width="240" alt="People are talking. You can too."></a>
-			<p></p>
-			<p></p>
+		<style>
+			.rounded {
+				border-radius: 4px; 
+				outline: solid 1px;
+			}
+		</style>
+		<img src="/img/banner.jpg" alt="People are talking. You can too." class="rounded"><br>
+		<div style="display: flex; flex-direction: row; justify-content: space-between; gap: 1rem;">
+			<a href="/ltsu/"><img src="/img/the_eagle_files_button.jpg" alt="Image hyperlink to The Eagle Files webpage." class="rounded"></a>
+			<a href="/poster/"><img src="/img/print_kit_button.jpg" alt="Image hyperlink to the webpage for our poster print kits." class="rounded"></a>
+			<span href="/ltsu/"><img src="/img/stay_tuned.jpg" alt="Image with a caption that says Stay Tuned." class="rounded"></span>
 		</div>
 		<hr>
 		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
