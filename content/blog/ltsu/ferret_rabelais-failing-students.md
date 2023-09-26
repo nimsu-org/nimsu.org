@@ -5,7 +5,7 @@ layout: default
 ---
 > **This opinion article may contain material that is disturbing to some readers:** Mentions of LGBTQIA+ and minority hate groups. 
 
-NIMSU Ferret can report that the Rabelais has not had a new issue of the magazine released since Issue #1 (released at the start of Semester 1 2023), and has not added any new articles to their website since early May. 
+NIMSU Ferret can report that the Rabelais has not had a new issue of the magazine released since Issue #1 (released at the start of Semester 1 2023, though their websites states that post-COVID they have switched to predominately digital publication), and has not added any new articles to their website since early May. 
 
 For the entirety of 2023, only three articles have been published to the website: 
 
