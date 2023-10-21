@@ -2,9 +2,6 @@
 title: The Eagle Files
 layout: default
 ---
-We’ve been looking into your student representatives from the La Trobe Student Union, and we’ve discovered that some of them 
-might be hiding quite a few skeletons in their closets. 
-
 ## Are you a student representative? Look out for us. 
 Some NIMSU mules will be hanging around the La Trobe Bundoora campus near the end of September. 
 They will be on the look out for you so that they can hand you an envelope containing a personalised Eagle File. 
